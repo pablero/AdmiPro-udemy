@@ -7,6 +7,6 @@ import { SettingsService } from './services/service.index';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'AdminPro';
+  // title = 'AdminPro';
   constructor(public seervicioSetting: SettingsService){}
 }
